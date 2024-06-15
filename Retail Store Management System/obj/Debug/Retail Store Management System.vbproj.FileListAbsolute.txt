@@ -1,0 +1,32 @@
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\bin\Debug\Retail Store Management System.exe.config
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\bin\Debug\Retail Store Management System.exe
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\bin\Debug\Retail Store Management System.pdb
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\bin\Debug\Retail Store Management System.xml
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.cashier_management.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.customer_management.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.dashboard_admin.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.product_management.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.login.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.Resources.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.admin_management.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.change_password.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.dashboard_owner.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail Store Management System.vbproj.GenerateResource.Cache
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail Store Management System.exe
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail Store Management System.xml
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail Store Management System.pdb
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\bin\Debug\MessagingToolkit.Barcode.dll
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail Store Management System.vbprojResolveAssemblyReference.cache
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail Store Management System.vbproj.ResolveComReference.cache
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.event_management.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.reports.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.supplier_management.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.atm_management.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.create_account.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.atm_home.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.withdraw.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.deposit.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.change_pin.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.transaction_history.resources
+D:\Visual Studio 2012 Projects\Retail Store Management System\Retail Store Management System\obj\Debug\Retail_Store_Management_System.sale_management.resources
